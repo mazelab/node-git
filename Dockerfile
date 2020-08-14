@@ -1,7 +1,5 @@
-FROM node:14-slim
+FROM node:14-alpine
 
 WORKDIR /app
 
-RUN apt-get update && \
-  apt-get install -y \
-  git-core
+RUN apk add --no-cache git
