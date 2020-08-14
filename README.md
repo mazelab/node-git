@@ -1,5 +1,7 @@
 # node-git
 
-docker image with node.js and git runtime
+Node.js from version 14.8 on with an integrated git runtime.
 
-Based on the original image of [node](https://github.com/nodejs/docker-node).js
+Slim and Alpine variant is available.
+
+_Based on the original image of [node](https://github.com/nodejs/docker-node).js_
