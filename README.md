@@ -1,6 +1,6 @@
 # node-git
 
-Alpine version
+`slim` and `alpine` versions are available
 
 - Node.js version 14.9
 - git version control
