@@ -1,7 +1,8 @@
 # node-git
 
-Node.js from version 14.8 on with an integrated git runtime.
+Slim version
 
-Slim and Alpine variant is available.
+- Node.js version 14.9
+- git version control
 
 _Based on the original image of [node](https://github.com/nodejs/docker-node).js_
