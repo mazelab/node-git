@@ -1,6 +1,6 @@
 # node-git
 
-Slim and Alpine versions are available
+`slim` and `alpine` versions are available
 
 - Node.js from version 14.8 on
 - git version control
